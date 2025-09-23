@@ -10,8 +10,8 @@ const getContextInfo = (m) => {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: 'yourjid@newsletter',
-            newsletterName 'yourbotname',
+            newsletterJid: '120363399579001828@g.us',
+            newsletterName 'BALOCH-MD',
             serverMessageId: 143,
         },
     };
